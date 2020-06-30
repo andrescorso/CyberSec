@@ -1,0 +1,178 @@
+application:
+  domain: unal.edu.co
+  name: 'UNAL Ciberseguridad CTF'
+  logo: 'http://tiendauniversitaria.unal.edu.co/typo3conf/ext/unal_skin_default/Resources/Public/images/escudoUnal.svg'
+  favicon: 'http://tiendauniversitaria.unal.edu.co/typo3conf/ext/unal_skin_default/Resources/Public/images/favicon.ico'
+  theme: blue-lightblue
+  showGitHubLinks: false
+  altcoinName: Mozquito
+  privacyContactEmail: 'acorso@unal.edu.co'
+  customMetricsPrefix: unalctf
+  social:
+    twitterUrl: 'https://twitter.com/anfrajo'
+    facebookUrl: null
+    slackUrl: null
+    redditUrl: null
+    pressKitUrl: null
+    questionnaireUrl: null
+  recyclePage:
+    topProductImage: Gear-200155340.jpg
+    bottomProductImage: Gear-200155753.jpg
+  welcomeBanner:
+    showOnFirstStart: false
+  cookieConsent:
+    backgroundColor: '#e95420'
+    textColor: '#ffffff'
+    buttonColor: '#2778c5'
+    buttonTextColor: '#ffffff'
+    message: 'Usamos cookies esperamos que no haya problema.'
+    dismissText: 'Tranquilo!'
+    linkText: 'Cómo las deshabilito?'
+    linkUrl: 'https://support.mozilla.org/en-US/kb/disable-third-party-cookies'
+  securityTxt:
+    contact: 'mailto:acorso@unal.edu.co'
+    encryption: ~
+challenges:
+  showHints: false
+  xssBonusPayload: '<iframe width="560" height="315" src="https://www.youtube.com/embed/EbksDgkD608" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+hackingInstructor:
+  isEnabled: false
+products:
+  -
+    name: 'Cuaderno Cartografía Bogotá monocromía Ciudad Universitaria'
+    price: 20000
+    image: 'http://tiendauniversitaria.unal.edu.co/fileadmin/_processed_/d/d/csm_Cuaderno_cosido_Cartografia_Bogota_monocromia_Ciudad_Universitaria_2_29744efaa8.jpg'
+    reviews:
+      - { text: 'Uno de mis favoritos!', author: admin }
+  -
+    name: 'Cuaderno Cartografía Manizales monocromía El Cable'
+    price: 20000
+    image: 'http://tiendauniversitaria.unal.edu.co/fileadmin/_processed_/9/e/csm_Cuaderno_cosido_Cartografia_Manizales_monocromia_El_Cable_1_799ce9f418.jpg'
+  -
+    name: 'Cuaderno Cartografía Manizales monocromía La Nubia '
+    price: 20000
+    image: 'http://tiendauniversitaria.unal.edu.co/fileadmin/_processed_/4/a/csm_Cuaderno_cosido_Cartografia_Manizales_monocromia_La_Nubia_1_5c9e292e09.jpg'
+    reviews:
+      - { text: 'Lo compré y cuando se me acabe compro otro', author: admin }
+  -
+    name: 'Pocillo Cartografía Medellín monocromía El Volador'
+    description: 'Pocillo cerámico de la colección Cartografía POP, inspirada en los planos que representan las diferentes Sedes de la Universidad Nacional de Colombia, capacidad aproximada 250 cc. '
+    price: 25000
+    image: 'http://tiendauniversitaria.unal.edu.co/fileadmin/_processed_/d/e/csm_Pocillo_Cartografia_Medellin_monocromia_El_Volador_e288cee158.jpg'
+  -
+    name: 'Pocillo Cartografía Manizales policromía El Cable'
+    description: 'Pocillo cerámico de la colección Cartografía POP, inspirada en los planos que representan las diferentes Sedes de la Universidad Nacional de Colombia, capacidad aproximada 250 cc.'
+    price: 25000
+    image: 'http://tiendauniversitaria.unal.edu.co/fileadmin/_processed_/0/f/csm_Pocillo_Cartografia_Manizales_policromia_El_Cable_15fa660733.jpg'
+  -
+    name: 'Pañoleta Aerofotografía Bogotá Ciudad Universitaria'
+    description: 'Pañoleta de 70*70 cm elaborada en Poliéster imitación Seda en impresión digital. Con la Aerofotografía de la Ciudad Universitaria 2001 en la Universidad Nacional de Colombia Sede Bogotá.'
+    price: 34000
+    image: 'http://tiendauniversitaria.unal.edu.co/fileadmin/_processed_/9/1/csm_panoleta-03_6ac8e17b7e.jpg'
+  -
+    name: 'Delantal Mundos UN Caribe'
+    price: 30000
+    image: 'http://tiendauniversitaria.unal.edu.co/fileadmin/_processed_/c/7/csm_2018.09.20_TU_MundosUN_Caribe-04_b3ac7ac419.jpg'
+  -
+    name: 'Delantal Mundos UN Orinoquía'
+    price: 30000
+    image: 'http://tiendauniversitaria.unal.edu.co/fileadmin/_processed_/1/a/csm_2018.09.20_TU_MundosUN_Orinoquia-03_69de069c32.jpg'
+  -
+    name: 'Delantal Mundos UN Amazonia'
+    price: 30000
+    image: 'http://tiendauniversitaria.unal.edu.co/fileadmin/_processed_/8/4/csm_2018.09.20_TU_MundosUN_Amazonia-04_1879927fe9.jpg'
+  -
+    name: 'Delantal Mundos UN Bogotá'
+    price: 30000
+    image: 'http://tiendauniversitaria.unal.edu.co/fileadmin/_processed_/7/e/csm_2018.09.20_TU_MundosUN_Bogota-09_68044ab1e3.jpg'
+  -
+    name: 'Set de Clips Mundos UN Tumaco'
+    price: 14000
+    image: 'http://tiendauniversitaria.unal.edu.co/fileadmin/_processed_/3/d/csm_2018.09.20_TU_MundosUN_Tumaco-09_6fadcf1600.jpg'
+    reviews:
+      - { text: 'Lindo', author: admin }
+  -
+    name: 'Set de Clips Mundos UN Manizales'
+    price: 14000
+    image: 'http://tiendauniversitaria.unal.edu.co/fileadmin/_processed_/e/0/csm_2018.09.20_TU_MundosUN_Manizales-09_c89652488a.jpg'
+  -
+    name: 'Set de Clips Mundos UN Bogotá'
+    price: 14000
+    image: 'http://tiendauniversitaria.unal.edu.co/fileadmin/_processed_/6/d/csm_2018.09.20_TU_MundosUN_Bogota-13_aa7f268a06.jpg'
+  -
+    name: 'Buso Institucional Cuello Escudo'
+    price: 65000
+    description: 'Buso cuello redondo en 50 % algodón - 50 % poliester, Unisex. Con aplique del escudo de la Universidad Nacional de Colombia. En colores: rojo, gris, azul naval, negro y verde.'
+    image: 'http://tiendauniversitaria.unal.edu.co/fileadmin/_processed_/0/1/csm_2018.08.08_Institucional_Buso_Cuello_G_c0e90da26b.jpg'
+  -
+    name: 'Gorra Institucional'
+    price: 25000
+    image: 'http://tiendauniversitaria.unal.edu.co/fileadmin/_processed_/b/2/csm_2018.08.13_Institucional_Gorra_V_c10bdd310f.jpg'
+    reviews:
+      - { text: 'No me gustó.', author: admin }
+  -
+    name: 'Rompevientos Institucional Contraste'
+    price: 55000
+    image: 'http://tiendauniversitaria.unal.edu.co/fileadmin/_processed_/f/a/csm_2018.08.10_Rompevientos_Contraste_1_2ff7248d08.jpg'
+  -
+    name: 'PIN Escudo'
+    price: 15000
+    image: 'http://tiendauniversitaria.unal.edu.co/fileadmin/_processed_/2/1/csm_pin-7_47868b6c22.jpg'
+  -
+    name: 'PIN Aplique'
+    price: 15000
+    image: 'http://tiendauniversitaria.unal.edu.co/fileadmin/_processed_/2/d/csm_pin-6_e87167bad4.jpg'
+
+  -
+    name: 'Colour Contrast Analyser Firefox Extension'
+    description: 'The Colour Contrast Analyser Firefox extension lists colour combinations used in the document in a table that summarises the foreground colour, background colour, luminosity contrast ratio, and the colour difference and brightness difference used in the algorithm suggested in the 26th of April 2000 working draft for Accessibility Evaluation and Repair Tools (AERT). Each element is also listed with its parent elements, and class and id attribute values when specified to make it easier to locate the elements. <br/><span style="color:red;">This extension has been removed because side-effects with other plugins.</span>'
+    price: 0.99
+    image: 'http://juicystudio.com/img/logo.gif'
+    keywordsForPastebinDataLeakChallenge:
+      - juicenote
+      - magische firefox suche
+  -
+    name: 'Fox Plush'
+    price: 8.6
+  -
+    name: 'Mozilla custom hoodie'
+    price: 19.66
+    reviews:
+      - { text: 'You gotta get this.', author: jim }
+  -
+    name: 'Woman''s Firefox Logo T-Shirt (grey)'
+    price: 4.31
+  -
+    name: 'Women''s Vertical T-Shirt'
+    price: 5.09
+  -
+    name: 'Mozilla Horizontal T-Shirt'
+    price: 5.94
+  -
+    name: 'OWASP Zed Attack Proxy (ZAP)'
+    description: 'ZAP is one of the world’s most popular free security tools and can help you automatically find security vulnerabilities while you are developing and testing your applications.'
+    price: 0.01
+    image: zap.png
+    urlForProductTamperingChallenge: 'https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project'
+  -
+    name: 'Christmas Super-Surprise-Box (2014 Edition)'
+    description: 'Contains a random selection of stickers and three Unisex t-shirts (3XL) for an unbeatable price!'
+    price: 29.99
+    image: undefined.jpg
+    useForChristmasSpecialChallenge: true
+  -
+    name: 'Mozilla Austin CTF Logo (3D-printed)'
+    description: 'This rare item was designed and handcrafted in Sweden. This is why it is so incredibly expensive despite its complete lack of purpose.'
+    price: 99.99
+    image: 3d_keychain.jpg
+    fileForRetrieveBlueprintChallenge: 'https://github.com/mozilla/ctf-austin/raw/master/app/public/images/products/3d_keychain.stl'
+  -
+    name: 'Global OWASP WASPY Award 2017 Nomination'
+    description: 'Your chance to nominate up to three quiet pillars of the OWASP community ends 2017-06-30! <a href="https://www.owasp.org/index.php/WASPY_Awards_2017">Nominate now!</a>'
+    price: 0.03
+    image: waspy.png
+    deletedDate: '2017-07-01'
+
+ctf:
+  showFlagsInNotifications: true
+memories: []
